@@ -1,0 +1,19 @@
+footer {
+    text-align: center;
+
+    grid-area: footer;
+
+    background-color: rgb(179, 101, 101);
+
+    /* margin-top: 30px; */
+    border-top: 3px black solid;
+}
+footer p {
+    padding: 20px;
+}
+footer a {
+    color: black;
+}
+footer a:hover {
+    text-decoration: none;
+}
